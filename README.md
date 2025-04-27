@@ -13,7 +13,7 @@ Perfect for database operations, backup, and restore tasks in Kubernetes CronJob
 | Tool               | Version  |
 |--------------------|----------|
 | Alpine Linux       | 3.21     |
-| PostgreSQL Client	 | 5.x      |
+| PostgreSQL Client	 | 17.x     |
 | AWS CLI            | v2.x     |
 
 ---
