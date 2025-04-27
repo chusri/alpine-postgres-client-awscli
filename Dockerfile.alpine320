@@ -5,8 +5,7 @@ FROM alpine:3.20
 RUN echo "https://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories && \
     apk add --no-cache \
     postgresql17-client \
-    aws-cli \
-    vim 
+    aws-cli 
 
 
 CMD ["sh"]
